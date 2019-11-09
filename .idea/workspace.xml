@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f5b4c4d2-c021-4750-9f14-3208dd0a5057" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T8APJ97XEVh7ZC5Na6FUDPIlbf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -34,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LearnHowToCode/functions" />
       <recent name="$PROJECT_DIR$/LearnHowToCode" />
     </key>
   </component>
@@ -49,12 +50,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
-    <configuration name="go build exercise4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build exercise.go (1)">
+    <configuration name="go build exercise5.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/exercise4/exercise4.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise5.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -63,52 +64,52 @@
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/Struct/exercise5.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise/exercise5.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercises/LearnHowToCode/exercise4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/exercise4/exercise4.go" />
-      <package value="exercises/LearnHowToCode/exercise4" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercise.go" type="GoApplicationRunConfiguration" factoryName="Go Application" editBeforeRun="true" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <working_directory value="$PROJECT_DIR$/LearnHowToCode/functions" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise/exercise.go" />
+      <package value="exercises" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercises/LearnHowToCode/functions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" />
-      <package value="exercises" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/defer.go" />
+      <package value="exercises/LearnHowToCode/functions" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build exercise4.go" />
+      <item itemvalue="Go Build.go build exercise.go" />
+      <item itemvalue="Go Build.go build exercise.go (1)" />
+      <item itemvalue="Go Build.go build exercises/LearnHowToCode/functions" />
       <item itemvalue="Go Build.go build exercise5.go" />
-      <item itemvalue="Go Build.go build exercises/LearnHowToCode/exercise4" />
-      <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build exercise5.go (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build exercises/LearnHowToCode/exercise4" />
+        <item itemvalue="Go Build.go build exercise.go (1)" />
+        <item itemvalue="Go Build.go build exercise5.go (1)" />
         <item itemvalue="Go Build.go build exercise5.go" />
-        <item itemvalue="Go Build.go build exercise4.go" />
-        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build exercises/LearnHowToCode/functions" />
+        <item itemvalue="Go Build.go build exercise.go" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +121,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
