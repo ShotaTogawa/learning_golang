@@ -3,7 +3,8 @@ package integer
 import "testing"
 
 func Add(x, y int) (sum int) {
-	return x + y
+	sum = x + y
+	return
 }
 
 func TestAdder(t *testing.T) {
