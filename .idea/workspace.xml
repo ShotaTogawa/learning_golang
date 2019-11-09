@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b4c4d2-c021-4750-9f14-3208dd0a5057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Struct/exercise5.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/Struct/exercise5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise4/exercise4.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise4/exercise4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise5.go">
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build exercise4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -72,20 +68,12 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercises/exercise3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/exercise3/main.go" />
-      <package value="exercises/exercise3" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build exercises/exercise4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercises/LearnHowToCode/exercise4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/exercise4/exercise4.go" />
-      <package value="exercises/exercise4" />
+      <package value="exercises/LearnHowToCode/exercise4" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -98,13 +86,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/exercise3/main.go" />
+      <package value="exercises" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build exercise4.go" />
+      <item itemvalue="Go Build.go build exercise5.go" />
+      <item itemvalue="Go Build.go build exercises/LearnHowToCode/exercise4" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build exercises/LearnHowToCode/exercise4" />
         <item itemvalue="Go Build.go build exercise5.go" />
         <item itemvalue="Go Build.go build exercise4.go" />
         <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build exercises/exercise4" />
-        <item itemvalue="Go Build.go build exercises/exercise3" />
       </list>
     </recent_temporary>
   </component>

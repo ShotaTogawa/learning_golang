@@ -50,11 +50,11 @@ func main() {
 
 	exercise1()
 	exercise2()
-	exercise3()
-	exercise4()
-	exercise5()
-	exercise6()
-	exercise7()
+	//exercise3()
+	//exercise4()
+	//exercise5()
+	//exercise6()
+	//exercise7()
 
 }
 
@@ -71,6 +71,7 @@ func exercise2 () {
 			fmt.Printf("\t%#U\n", i)
 		}
 	}
+
 }
 
 func exercise3 () {
