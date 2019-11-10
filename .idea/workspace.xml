@@ -50,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build exercise.go (1)">
+  <component name="RunManager" selected="Go Build.go build exercises/LearnHowToCode/pointer">
     <configuration name="go build exercise5.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -78,38 +78,38 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise.go" type="GoApplicationRunConfiguration" factoryName="Go Application" editBeforeRun="true" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+    <configuration name="go build exercises/LearnHowToCode/pointer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/LearnHowToCode/functions" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise/exercise.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/pointer/exercise1.go" />
+      <package value="exercises/LearnHowToCode/pointer" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build pointer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/pointer/pointer.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercises/LearnHowToCode/functions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/defer.go" />
-      <package value="exercises/LearnHowToCode/functions" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Go Build.go build exercise.go" />
       <item itemvalue="Go Build.go build exercise.go (1)" />
-      <item itemvalue="Go Build.go build exercises/LearnHowToCode/functions" />
       <item itemvalue="Go Build.go build exercise5.go" />
       <item itemvalue="Go Build.go build exercise5.go (1)" />
+      <item itemvalue="Go Build.go build pointer.go" />
+      <item itemvalue="Go Build.go build exercises/LearnHowToCode/pointer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build exercises/LearnHowToCode/pointer" />
+        <item itemvalue="Go Build.go build pointer.go" />
         <item itemvalue="Go Build.go build exercise.go (1)" />
         <item itemvalue="Go Build.go build exercise5.go (1)" />
         <item itemvalue="Go Build.go build exercise5.go" />
-        <item itemvalue="Go Build.go build exercises/LearnHowToCode/functions" />
-        <item itemvalue="Go Build.go build exercise.go" />
       </list>
     </recent_temporary>
   </component>
