@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f5b4c4d2-c021-4750-9f14-3208dd0a5057" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LearnHowToCode/benchmarking/saying" />
       <recent name="$PROJECT_DIR$/LearnHowToCode/functions" />
       <recent name="$PROJECT_DIR$/LearnHowToCode" />
     </key>
@@ -50,66 +52,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build exercises/LearnHowToCode/pointer">
-    <configuration name="go build exercise5.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build exercises/LearnHowToCode/Channels (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise5.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/Channels/s-mutex.go" />
+      <package value="exercises/LearnHowToCode/Channels" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build exercises/LearnHowToCode/testing" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/testing/testing.go" />
+      <package value="exercises/LearnHowToCode/testing" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/RestWithGo/main.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise/exercise5.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/benchmarking/main.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build s-select.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/functions/exercise.go" />
-      <package value="exercises" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build exercises/LearnHowToCode/pointer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/pointer/exercise1.go" />
-      <package value="exercises/LearnHowToCode/pointer" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build pointer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/LearnHowToCode/pointer/pointer.go" />
+      <filePath value="$PROJECT_DIR$/LearnHowToCode/Channels/s-select.go" />
       <package value="exercises" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build exercise.go (1)" />
-      <item itemvalue="Go Build.go build exercise5.go" />
-      <item itemvalue="Go Build.go build exercise5.go (1)" />
-      <item itemvalue="Go Build.go build pointer.go" />
-      <item itemvalue="Go Build.go build exercises/LearnHowToCode/pointer" />
+      <item itemvalue="Go Build.go build s-select.go" />
+      <item itemvalue="Go Build.go build exercises/LearnHowToCode/Channels (4)" />
+      <item itemvalue="Go Build.go build exercises/LearnHowToCode/testing" />
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build exercises/LearnHowToCode/pointer" />
-        <item itemvalue="Go Build.go build pointer.go" />
-        <item itemvalue="Go Build.go build exercise.go (1)" />
-        <item itemvalue="Go Build.go build exercise5.go (1)" />
-        <item itemvalue="Go Build.go build exercise5.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build exercises/LearnHowToCode/testing" />
+        <item itemvalue="Go Build.go build exercises/LearnHowToCode/Channels (4)" />
+        <item itemvalue="Go Build.go build s-select.go" />
       </list>
     </recent_temporary>
   </component>
