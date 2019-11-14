@@ -23,7 +23,7 @@ func factorial(n int) int {
 // return 3 * factorial(3 - 1)
 // return 2 * factorial(2 - 1)
 // return 1 * factorial(1 - 1)
-// return 1
+// return 1ddddd
 
 func factorial2(num int) int {
 	total := 1

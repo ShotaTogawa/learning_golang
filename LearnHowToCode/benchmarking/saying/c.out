@@ -1,0 +1,4 @@
+// from go test -coverprofile c.out
+
+mode: set
+exercises/LearnHowToCode/benchmarking/saying/sayingmain.go:5.29,7.2 1 1
